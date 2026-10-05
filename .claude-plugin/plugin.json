@@ -1,0 +1,21 @@
+{
+  "name": "copilote-accompagnateur-ia-cci",
+  "version": "1.0.0",
+  "description": "Copilote de l'agent accompagnateur IA du réseau CCI : boussole + 11 skills pour accompagner une TPE/PME vers l'IA (découverte, maturité, mise à niveau, idéation, approfondissement, portefeuille, cahier des besoins, risques et charte, données, familles d'IA, posture).",
+  "author": {
+    "name": "Sébastien Grillot",
+    "email": "sebastien@koeki.fr"
+  },
+  "homepage": "https://github.com/agencekoeki/copilote-accompagnateur-ia-cci",
+  "repository": "https://github.com/agencekoeki/copilote-accompagnateur-ia-cci",
+  "license": "GPL-3.0",
+  "keywords": [
+    "ia",
+    "cci",
+    "accompagnement",
+    "tpe",
+    "pme",
+    "agent-skills",
+    "francais"
+  ]
+}
